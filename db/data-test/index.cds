@@ -1,0 +1,1 @@
+namespace trainingcapm.db;
